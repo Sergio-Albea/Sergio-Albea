@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sergio Albea
+---
+Thanks for stopping by my profile! My name is Sergio Albea and I'm originally from a tiny town called Valls (Spain) known for building the best human castles 🏰 (called castells). About 15 years ago, I moved to Barcelona, where I had an amazing time both personally and professionally. Five years ago, I landed in beautiful Switzerland 🇨🇭, where I am currently working as CSOC Security Expert on SWITCH (Swiss NREN), focus on threat analysis and response on Education and Research sector.
 
-<!--
-**Sergio-Albea/Sergio-Albea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 What I do
 
-Here are some ideas to get you started:
+* Threat Hunting with KQL
+* Threat Intelligence integration (MISP, TI feeds, automation)
+* Detection engineering (IOA > IOC mindset)
+* Security automation with Logic Apps & Graph API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📺 Content & Community
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sergioalbea/
+* 🎥 Medium: https://medium.com/@sergio.albea
+---
+
+## 🤝 Let’s connect
+
+Always open to collaboration around Threat Hunting, KQL, and TI. 😄
+
+---
