@@ -7,6 +7,3 @@ Thanks for stopping by my profile! My name is Sergio Albea and I'm originally fr
 * Threat Intelligence integration (MISP, TI feeds, automation)
 * Detection engineering (IOA > IOC mindset)
 * Security automation with Logic Apps & Graph API
-
----
- 💼 LinkedIn: https://www.linkedin.com/in/sergioalbea/     🎥 Medium: https://medium.com/@sergio.albea
